@@ -1,0 +1,38 @@
+body {
+    font-family: Inter;
+    background-color: #050505;
+    }
+    
+    .containerimagem {
+      width: 200px;
+      text-align: center;
+    }
+    
+    .containertitulo {
+      color: #b83030;
+      text-align: center;
+    }
+    
+    .container__botao {
+      display: inline-block;
+      background-color: #3a7a15;
+      color: white;
+      padding: 1em;
+      border-radius: 16px;
+      text-decoration: none;
+      text-align: center;
+    }
+    
+    .container {
+      width: 20%;
+      background-color: #8a2c2c;
+      border-radius: 100px;
+      padding: 100px;
+      margin: 0 auto;
+      text-align: center;
+    
+    }
+
+    .texto_tamanho {
+        font-size: 20px;
+    }
